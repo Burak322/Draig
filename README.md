@@ -1,1 +1,2 @@
 # Draig
+İts simple AI 
